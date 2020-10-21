@@ -13,7 +13,7 @@
 .dino {
 	width: 20px;
 	height: 50px;
-	background-color: red;
+	background-color: blue;
 	margin-left: 3px;
 	position: relative;
 	top: 150px;
@@ -42,7 +42,7 @@
 }
 
 .enemy {
-	background-color: blue;
+	background-color: green;
 	width: 20px;
 	height: 20px;
 	position: relative;
